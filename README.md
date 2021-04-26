@@ -15,3 +15,4 @@ Links of the documents and other information about Tesla 4002
 - Page on [oldradio.cz](http://www.oldradio.cz/ts4002.htm) - Includes manual, schematic, service manual, installation manual
 - Page on [radiojournal.cz](http://www.radiojournal.cz/servisaky/4001a.pdf) - 4001a repair guide. 
 - One more [repair story](https://danplatil.wbs.cz/Renovace-4001-2A.html)
+- Some [more service information](http://www.radiohistoria.sk/Oldradio/main.nsf/wdownload?OpenForm&docid=STO-82846282), including oscilloscopes. 
